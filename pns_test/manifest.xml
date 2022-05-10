@@ -1,0 +1,12 @@
+<package>
+  <description brief="pns_test">
+
+     pns_test
+
+  </description>
+  <author>ehdrb</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pns_test</url>
+
+</package>
